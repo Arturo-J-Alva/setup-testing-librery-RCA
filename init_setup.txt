@@ -1,3 +1,5 @@
+SEGUIR PASOS DEL PDF: Setup+de+proyectos-react-tdd.pdf
+
 1. 
     npm i eslint-config-airbnb eslint-config-prettier eslint-plugin-jsx-a11y eslint-plugin-prettier prettier eslint-config-prettier typescript --save-dev
 
@@ -7,5 +9,5 @@
 3. 
     .prettierrc
 
-4. FALTAAAAAAAA
+4. 
 
