@@ -1,0 +1,11 @@
+1. 
+    npm i eslint-config-airbnb eslint-config-prettier eslint-plugin-jsx-a11y eslint-plugin-prettier prettier eslint-config-prettier typescript --save-dev
+
+2. 
+    .eslintrc
+
+3. 
+    .prettierrc
+
+4. FALTAAAAAAAA
+
